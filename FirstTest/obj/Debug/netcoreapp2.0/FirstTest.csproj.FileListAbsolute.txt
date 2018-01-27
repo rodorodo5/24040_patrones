@@ -1,0 +1,11 @@
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/bin/Debug/netcoreapp2.0/FirstTest.deps.json
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/bin/Debug/netcoreapp2.0/FirstTest.runtimeconfig.json
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/bin/Debug/netcoreapp2.0/FirstTest.runtimeconfig.dev.json
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/bin/Debug/netcoreapp2.0/FirstTest.dll
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/bin/Debug/netcoreapp2.0/FirstTest.pdb
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/obj/Debug/netcoreapp2.0/FirstTest.csprojResolveAssemblyReference.cache
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/obj/Debug/netcoreapp2.0/FirstTest.csproj.CoreCompileInputs.cache
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/obj/Debug/netcoreapp2.0/FirstTest.AssemblyInfoInputs.cache
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/obj/Debug/netcoreapp2.0/FirstTest.AssemblyInfo.cs
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/obj/Debug/netcoreapp2.0/FirstTest.dll
+/Users/rodo/Documents/Proyectos NET/FirstTest/FirstTest/obj/Debug/netcoreapp2.0/FirstTest.pdb
