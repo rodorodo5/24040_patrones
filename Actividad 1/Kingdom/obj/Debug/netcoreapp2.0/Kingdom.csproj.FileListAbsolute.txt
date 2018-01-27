@@ -1,0 +1,11 @@
+/Users/rodo/Projects/Kingdom/Kingdom/bin/Debug/netcoreapp2.0/Kingdom.deps.json
+/Users/rodo/Projects/Kingdom/Kingdom/bin/Debug/netcoreapp2.0/Kingdom.runtimeconfig.json
+/Users/rodo/Projects/Kingdom/Kingdom/bin/Debug/netcoreapp2.0/Kingdom.runtimeconfig.dev.json
+/Users/rodo/Projects/Kingdom/Kingdom/bin/Debug/netcoreapp2.0/Kingdom.dll
+/Users/rodo/Projects/Kingdom/Kingdom/bin/Debug/netcoreapp2.0/Kingdom.pdb
+/Users/rodo/Projects/Kingdom/Kingdom/obj/Debug/netcoreapp2.0/Kingdom.csprojResolveAssemblyReference.cache
+/Users/rodo/Projects/Kingdom/Kingdom/obj/Debug/netcoreapp2.0/Kingdom.csproj.CoreCompileInputs.cache
+/Users/rodo/Projects/Kingdom/Kingdom/obj/Debug/netcoreapp2.0/Kingdom.AssemblyInfoInputs.cache
+/Users/rodo/Projects/Kingdom/Kingdom/obj/Debug/netcoreapp2.0/Kingdom.AssemblyInfo.cs
+/Users/rodo/Projects/Kingdom/Kingdom/obj/Debug/netcoreapp2.0/Kingdom.dll
+/Users/rodo/Projects/Kingdom/Kingdom/obj/Debug/netcoreapp2.0/Kingdom.pdb
