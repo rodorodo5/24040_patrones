@@ -1,0 +1,10 @@
+/Users/rodo/Documents/Proyectos NET/validador/validador/obj/Debug/netcoreapp2.0/validador.csproj.CoreCompileInputs.cache
+/Users/rodo/Documents/Proyectos NET/validador/validador/obj/Debug/netcoreapp2.0/validador.AssemblyInfoInputs.cache
+/Users/rodo/Documents/Proyectos NET/validador/validador/obj/Debug/netcoreapp2.0/validador.AssemblyInfo.cs
+/Users/rodo/Documents/Proyectos NET/validador/validador/bin/Debug/netcoreapp2.0/validador.deps.json
+/Users/rodo/Documents/Proyectos NET/validador/validador/bin/Debug/netcoreapp2.0/validador.runtimeconfig.json
+/Users/rodo/Documents/Proyectos NET/validador/validador/bin/Debug/netcoreapp2.0/validador.runtimeconfig.dev.json
+/Users/rodo/Documents/Proyectos NET/validador/validador/bin/Debug/netcoreapp2.0/validador.dll
+/Users/rodo/Documents/Proyectos NET/validador/validador/bin/Debug/netcoreapp2.0/validador.pdb
+/Users/rodo/Documents/Proyectos NET/validador/validador/obj/Debug/netcoreapp2.0/validador.dll
+/Users/rodo/Documents/Proyectos NET/validador/validador/obj/Debug/netcoreapp2.0/validador.pdb
