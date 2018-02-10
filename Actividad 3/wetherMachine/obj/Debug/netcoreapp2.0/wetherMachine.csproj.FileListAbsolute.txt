@@ -1,0 +1,11 @@
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/bin/Debug/netcoreapp2.0/wetherMachine.deps.json
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/bin/Debug/netcoreapp2.0/wetherMachine.runtimeconfig.json
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/bin/Debug/netcoreapp2.0/wetherMachine.runtimeconfig.dev.json
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/bin/Debug/netcoreapp2.0/wetherMachine.dll
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/bin/Debug/netcoreapp2.0/wetherMachine.pdb
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/obj/Debug/netcoreapp2.0/wetherMachine.csprojResolveAssemblyReference.cache
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/obj/Debug/netcoreapp2.0/wetherMachine.csproj.CoreCompileInputs.cache
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/obj/Debug/netcoreapp2.0/wetherMachine.AssemblyInfoInputs.cache
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/obj/Debug/netcoreapp2.0/wetherMachine.AssemblyInfo.cs
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/obj/Debug/netcoreapp2.0/wetherMachine.dll
+/Users/rodo/Documents/Proyectos NET/wetherMachine/wetherMachine/obj/Debug/netcoreapp2.0/wetherMachine.pdb
