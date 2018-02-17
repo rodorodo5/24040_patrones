@@ -1,0 +1,11 @@
+/Users/rodo/Projects/rastreo/rastreo/bin/Debug/netcoreapp2.0/rastreo.deps.json
+/Users/rodo/Projects/rastreo/rastreo/bin/Debug/netcoreapp2.0/rastreo.runtimeconfig.json
+/Users/rodo/Projects/rastreo/rastreo/bin/Debug/netcoreapp2.0/rastreo.runtimeconfig.dev.json
+/Users/rodo/Projects/rastreo/rastreo/bin/Debug/netcoreapp2.0/rastreo.dll
+/Users/rodo/Projects/rastreo/rastreo/bin/Debug/netcoreapp2.0/rastreo.pdb
+/Users/rodo/Projects/rastreo/rastreo/obj/Debug/netcoreapp2.0/rastreo.csprojResolveAssemblyReference.cache
+/Users/rodo/Projects/rastreo/rastreo/obj/Debug/netcoreapp2.0/rastreo.csproj.CoreCompileInputs.cache
+/Users/rodo/Projects/rastreo/rastreo/obj/Debug/netcoreapp2.0/rastreo.AssemblyInfoInputs.cache
+/Users/rodo/Projects/rastreo/rastreo/obj/Debug/netcoreapp2.0/rastreo.AssemblyInfo.cs
+/Users/rodo/Projects/rastreo/rastreo/obj/Debug/netcoreapp2.0/rastreo.dll
+/Users/rodo/Projects/rastreo/rastreo/obj/Debug/netcoreapp2.0/rastreo.pdb
