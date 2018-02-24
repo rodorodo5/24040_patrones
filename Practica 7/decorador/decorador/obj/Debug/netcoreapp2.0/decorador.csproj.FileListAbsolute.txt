@@ -1,0 +1,11 @@
+/Users/rodo/Projects/decorador/decorador/bin/Debug/netcoreapp2.0/decorador.deps.json
+/Users/rodo/Projects/decorador/decorador/bin/Debug/netcoreapp2.0/decorador.runtimeconfig.json
+/Users/rodo/Projects/decorador/decorador/bin/Debug/netcoreapp2.0/decorador.runtimeconfig.dev.json
+/Users/rodo/Projects/decorador/decorador/bin/Debug/netcoreapp2.0/decorador.dll
+/Users/rodo/Projects/decorador/decorador/bin/Debug/netcoreapp2.0/decorador.pdb
+/Users/rodo/Projects/decorador/decorador/obj/Debug/netcoreapp2.0/decorador.csprojResolveAssemblyReference.cache
+/Users/rodo/Projects/decorador/decorador/obj/Debug/netcoreapp2.0/decorador.csproj.CoreCompileInputs.cache
+/Users/rodo/Projects/decorador/decorador/obj/Debug/netcoreapp2.0/decorador.AssemblyInfoInputs.cache
+/Users/rodo/Projects/decorador/decorador/obj/Debug/netcoreapp2.0/decorador.AssemblyInfo.cs
+/Users/rodo/Projects/decorador/decorador/obj/Debug/netcoreapp2.0/decorador.dll
+/Users/rodo/Projects/decorador/decorador/obj/Debug/netcoreapp2.0/decorador.pdb
