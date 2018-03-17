@@ -1,0 +1,11 @@
+/Users/rodo/Projects/pizzeria/pizzeria/bin/Debug/netcoreapp2.0/pizzeria.deps.json
+/Users/rodo/Projects/pizzeria/pizzeria/bin/Debug/netcoreapp2.0/pizzeria.runtimeconfig.json
+/Users/rodo/Projects/pizzeria/pizzeria/bin/Debug/netcoreapp2.0/pizzeria.runtimeconfig.dev.json
+/Users/rodo/Projects/pizzeria/pizzeria/bin/Debug/netcoreapp2.0/pizzeria.dll
+/Users/rodo/Projects/pizzeria/pizzeria/bin/Debug/netcoreapp2.0/pizzeria.pdb
+/Users/rodo/Projects/pizzeria/pizzeria/obj/Debug/netcoreapp2.0/pizzeria.csprojResolveAssemblyReference.cache
+/Users/rodo/Projects/pizzeria/pizzeria/obj/Debug/netcoreapp2.0/pizzeria.csproj.CoreCompileInputs.cache
+/Users/rodo/Projects/pizzeria/pizzeria/obj/Debug/netcoreapp2.0/pizzeria.AssemblyInfoInputs.cache
+/Users/rodo/Projects/pizzeria/pizzeria/obj/Debug/netcoreapp2.0/pizzeria.AssemblyInfo.cs
+/Users/rodo/Projects/pizzeria/pizzeria/obj/Debug/netcoreapp2.0/pizzeria.dll
+/Users/rodo/Projects/pizzeria/pizzeria/obj/Debug/netcoreapp2.0/pizzeria.pdb

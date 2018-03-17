@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E6E19525-8784-4712-AD28-2139CD759436}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pizzeria/Program.cs">
+    <Files>
+      <File FileName="pizzeria/Program.cs" Line="22" Column="34" />
+      <File FileName="pizzeria/FactoryPizzaTijuas.cs" Line="4" Column="6" />
+      <File FileName="pizzeria/pizzaFactory.cs" Line="8" Column="6" />
+      <File FileName="pizzeria/PizzaStore.cs" Line="6" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.pizzeria PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
