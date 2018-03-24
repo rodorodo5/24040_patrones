@@ -6,7 +6,6 @@ namespace commandPattern
     {
         static void Main(string[] args)
         {
-
             Client cl = new Client();
             cl.doAction(0);
             cl.doAction(1);

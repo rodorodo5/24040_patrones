@@ -23,7 +23,7 @@ namespace commandPattern
         }
         public void doAction(int index)
         {
-            Console.WriteLine("\nClient invoking command in index " + index);
+            Console.WriteLine("\nCliente corriendo comando en:  " + index);
             this.invoker.invoke(index);
         }
     }
