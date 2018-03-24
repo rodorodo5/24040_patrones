@@ -1,0 +1,11 @@
+/Users/rodo/Projects/commandpatron/commandpatron/bin/Debug/netcoreapp2.0/commandpatron.deps.json
+/Users/rodo/Projects/commandpatron/commandpatron/bin/Debug/netcoreapp2.0/commandpatron.runtimeconfig.json
+/Users/rodo/Projects/commandpatron/commandpatron/bin/Debug/netcoreapp2.0/commandpatron.runtimeconfig.dev.json
+/Users/rodo/Projects/commandpatron/commandpatron/bin/Debug/netcoreapp2.0/commandpatron.dll
+/Users/rodo/Projects/commandpatron/commandpatron/bin/Debug/netcoreapp2.0/commandpatron.pdb
+/Users/rodo/Projects/commandpatron/commandpatron/obj/Debug/netcoreapp2.0/commandpatron.csprojResolveAssemblyReference.cache
+/Users/rodo/Projects/commandpatron/commandpatron/obj/Debug/netcoreapp2.0/commandpatron.csproj.CoreCompileInputs.cache
+/Users/rodo/Projects/commandpatron/commandpatron/obj/Debug/netcoreapp2.0/commandpatron.AssemblyInfoInputs.cache
+/Users/rodo/Projects/commandpatron/commandpatron/obj/Debug/netcoreapp2.0/commandpatron.AssemblyInfo.cs
+/Users/rodo/Projects/commandpatron/commandpatron/obj/Debug/netcoreapp2.0/commandpatron.dll
+/Users/rodo/Projects/commandpatron/commandpatron/obj/Debug/netcoreapp2.0/commandpatron.pdb
